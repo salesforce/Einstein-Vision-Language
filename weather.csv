@@ -1,0 +1,74 @@
+"what's the weather look like",current-weather
+"is it raining",current-weather
+"what's the temperature",current-weather
+"show me current conditions",current-weather
+"how hot is it",current-weather
+"how cold is it",current-weather
+"is it snowing",current-weather
+"is it raining",current-weather
+"is it sunny",current-weather
+"is it cloudy",current-weather
+"is it raining in Detroit",current-weather
+"how is Denver today",current-weather
+"is Chicago cold",current-weather
+"is Miami hot",current-weather
+"show me the current conditions",current-weather
+"what's the temperature in new york",current-weather
+"show me current conditions for san francisco",current-weather
+"what's the weather look like in Chicago",current-weather
+"is it raining in Seattle",current-weather
+"what's the temperature in New York",current-weather
+"show me current conditions for Boston",current-weather
+"how hot is it in Miami",current-weather
+"how cold is it Anchorage",current-weather
+"is it snowing in Denver",current-weather
+"show me the current conditions for Detroit",current-weather
+"show me current conditions for boston",current-weather
+"how hot is it in miami",current-weather
+"how cold is it in anchorage",current-weather
+"is it snowing in denver",current-weather
+"show me the current conditions for detroit",current-weather
+"will it rain tomorrow",five-day-forecast
+"how dos the weather look for Thursday",five-day-forecast
+"is is going to snow this week",five-day-forecast
+"show me the forecast",five-day-forecast
+"what's the five day forecast",five-day-forecast
+"will it rain this week",five-day-forecast
+"how does this week look in Los Angelos",five-day-forecast
+"how does it look for Monday",five-day-forecast
+"will it rain on Friday",five-day-forecast
+"is it going to be hot Wednesday",five-day-forecast
+"how does the rest of the week look",five-day-forecast
+"will it rain tomorrow in Munich",five-day-forecast
+"how dos the weather look for this Thursday in Boston",five-day-forecast
+"is is going to snow this week in  Chicago",five-day-forecast
+"show me the forecast for Denver",five-day-forecast
+"show me the weather for Salt Lake City  this Tuesday",five-day-forecast
+"what's the five day forecast for Detroit ",five-day-forecast
+"how does it look for this Monday in New York",five-day-forecast
+"will it rain in Denver on Friday",five-day-forecast
+"is it going to be hot in Boston  this Wednesday",five-day-forecast
+"how New York  look the rest of the week look",five-day-forecast
+"how does tonight look",hourly-forecast
+"is it going to rain this afternoon",hourly-forecast
+"is it going to snow in Detroit",hourly-forecast
+"does it look like rain",hourly-forecast
+"does it look lie snow",hourly-forecast
+"is it windy",hourly-forecast
+"it is sunny",hourly-forecast
+"will it rain tonight",hourly-forecast
+"how cold will it be this afternoon",hourly-forecast
+"will it be cloudy",hourly-forecast
+"is it going to be hot tonight",hourly-forecast
+"will it rain this morning",hourly-forecast
+"will it rain",hourly-forecast
+"will is snow",hourly-forecast
+"is it going to get warmer today",hourly-forecast
+"how does tonight look in boston",hourly-forecast
+"is it going to rain this afternoon in chicago",hourly-forecast
+"will it rain this morning miami",hourly-forecast
+"is it going to get warmer today houston",hourly-forecast
+"how does tonight look in austin",hourly-forecast
+"is it going to rain this afternoon in san francisco",hourly-forecast
+"will it rain this morning Seattle",hourly-forecast
+"is it going to get warmer today Portland",hourly-forecast
